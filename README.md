@@ -6,7 +6,7 @@ Welcome to the React Chess Game repository! This chess game is a modern, respons
 
 ## Demo
 
-Experience the live demo: [Play Chess Now](https://chess-game-react.netlify.app/)
+
 
 ## Features
 
@@ -28,7 +28,7 @@ npm install npm@latest -g
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/szabolcsthedeveloper/React-Chess
+git clone [https://github.com/kghthor/React_Chess]
 
 2. Navigate to the project directory:
 cd react-chess-game
