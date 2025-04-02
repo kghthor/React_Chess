@@ -1,7 +1,7 @@
 # React Chess Game
 
 Welcome to the React Chess Game repository! This chess game is a modern, responsive web application built using React and TypeScript. Aimed at providing a seamless chess-playing experience, it's perfect for both beginners and seasoned players who want to enjoy a game of chess on-the-go or from the comfort of their browser.
-
+ 
 ![React Chess Game Preview](https://i.imgur.com/9aAIZKX.png)
 
 ## Demo 
